@@ -78,7 +78,7 @@ While functionality is documented as experimental, it is only in terms of breaki
 does not indicate that production usage of these helpers is dangerous.
 """
 
-[[audits.actix-hash]]
+[[trusted.actix-hash]]
 criteria = "safe-to-deploy"
 user-id = 56903 # @robjtede
 start = "2021-01-01"
