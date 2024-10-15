@@ -6,62 +6,71 @@
 # first-party crates
 # ------------------
 
-[[audits.bytestring]]
-version = "1.3.1"
+[[trusted.bytestring]]
 criteria = "safe-to-deploy"
-who = "Rob Ede <robjtede@icloud.com>"
+user-id = 56903 # @robjtede
+start = "2021-01-01"
+end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[audits.local-waker]]
-version = "0.1.4"
+[[trusted.local-waker]]
 criteria = "safe-to-deploy"
-who = "Rob Ede <robjtede@icloud.com>"
+user-id = 56903 # @robjtede
+start = "2021-01-01"
+end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[audits.local-channel]]
-version = "0.1.5"
+[[trusted.local-channel]]
 criteria = "safe-to-deploy"
-who = "Rob Ede <robjtede@icloud.com>"
+user-id = 56903 # @robjtede
+start = "2021-01-01"
+end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[audits.actix-utils]]
-version = "3.0.1"
+[[trusted.actix-utils]]
 criteria = "safe-to-deploy"
-who = "Rob Ede <robjtede@icloud.com>"
+user-id = 56903 # @robjtede
+start = "2021-01-01"
+end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[audits.actix-service]]
-version = "2.0.2"
+[[trusted.actix-service]]
 criteria = "safe-to-deploy"
-who = "Rob Ede <robjtede@icloud.com>"
+user-id = 56903 # @robjtede
+start = "2021-01-01"
+end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[audits.actix-codec]]
-version = "0.5.2"
+[[trusted.actix-codec]]
 criteria = "safe-to-deploy"
-who = "Rob Ede <robjtede@icloud.com>"
+user-id = 56903 # @robjtede
+start = "2021-01-01"
+end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[audits.actix-rt]]
-version = "2.10.0"
+[[trusted.actix-rt]]
 criteria = "safe-to-deploy"
-who = "Rob Ede <robjtede@icloud.com>"
+user-id = 56903 # @robjtede
+start = "2021-01-01"
+end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[audits.actix-macros]]
-version = "0.2.4"
+[[trusted.actix-macros]]
 criteria = "safe-to-deploy"
-who = "Rob Ede <robjtede@icloud.com>"
+user-id = 56903 # @robjtede
+start = "2021-01-01"
+end = "2025-12-31"
 notes = "Maintained by Actix team."
 
 # ------------------
 # third-party crates
 # ------------------
 
-[[audits.actix-web-lab]]
-version = "0.7.13"
+[[trusted.actix-web-lab]]
 criteria = "safe-to-deploy"
-who = "Rob Ede <robjtede@icloud.com>"
+user-id = 56903 # @robjtede
+start = "2021-01-01"
+end = "2025-12-31"
 notes = """
 Maintained by member of Actix team.
 
@@ -70,9 +79,10 @@ does not indicate that production usage of these helpers is dangerous.
 """
 
 [[audits.actix-hash]]
-version = "0.5.0"
 criteria = "safe-to-deploy"
-who = "Rob Ede <robjtede@icloud.com>"
+user-id = 56903 # @robjtede
+start = "2021-01-01"
+end = "2025-12-31"
 notes = """
 Maintained by member of Actix team.
 
