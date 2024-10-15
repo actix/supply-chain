@@ -1,0 +1,7 @@
+exclude = ["target/*"]
+include = ["**/*.toml"]
+
+[formatting]
+align_comments = false
+allowed_blank_lines = 1
+column_width = 110
