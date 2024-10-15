@@ -6,56 +6,56 @@
 # first-party crates
 # ------------------
 
-[[trusted.bytestring]]
+[[wildcard-audits.bytestring]]
 criteria = "safe-to-deploy"
 user-id = 56903 # @robjtede
 start = "2021-01-01"
 end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[trusted.local-waker]]
+[[wildcard-audits.local-waker]]
 criteria = "safe-to-deploy"
 user-id = 56903 # @robjtede
 start = "2021-01-01"
 end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[trusted.local-channel]]
+[[wildcard-audits.local-channel]]
 criteria = "safe-to-deploy"
 user-id = 56903 # @robjtede
 start = "2021-01-01"
 end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[trusted.actix-utils]]
+[[wildcard-audits.actix-utils]]
 criteria = "safe-to-deploy"
 user-id = 56903 # @robjtede
 start = "2021-01-01"
 end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[trusted.actix-service]]
+[[wildcard-audits.actix-service]]
 criteria = "safe-to-deploy"
 user-id = 56903 # @robjtede
 start = "2021-01-01"
 end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[trusted.actix-codec]]
+[[wildcard-audits.actix-codec]]
 criteria = "safe-to-deploy"
 user-id = 56903 # @robjtede
 start = "2021-01-01"
 end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[trusted.actix-rt]]
+[[wildcard-audits.actix-rt]]
 criteria = "safe-to-deploy"
 user-id = 56903 # @robjtede
 start = "2021-01-01"
 end = "2025-12-31"
 notes = "Maintained by Actix team."
 
-[[trusted.actix-macros]]
+[[wildcard-audits.actix-macros]]
 criteria = "safe-to-deploy"
 user-id = 56903 # @robjtede
 start = "2021-01-01"
@@ -66,7 +66,7 @@ notes = "Maintained by Actix team."
 # third-party crates
 # ------------------
 
-[[trusted.actix-web-lab]]
+[[wildcard-audits.actix-web-lab]]
 criteria = "safe-to-deploy"
 user-id = 56903 # @robjtede
 start = "2021-01-01"
@@ -78,7 +78,7 @@ While functionality is documented as experimental, it is only in terms of breaki
 does not indicate that production usage of these helpers is dangerous.
 """
 
-[[trusted.actix-hash]]
+[[wildcard-audits.actix-hash]]
 criteria = "safe-to-deploy"
 user-id = 56903 # @robjtede
 start = "2021-01-01"
